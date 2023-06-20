@@ -1,4 +1,4 @@
-# Red Hat JBoss EAP on Azure Red Hat OpenShift Hello World
+# Red Hat JBoss EAP on Azure Red Hat OpenShift Hello World!
 
 This is a simple application that demonstrates a basic deployment of an application Azure Red Hat OpenShift.
 
